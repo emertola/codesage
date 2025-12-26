@@ -106,7 +106,7 @@ export default function Home() {
               <div className="w-16 h-16 bg-blue-600 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4">
                 2
               </div>
-              <h3 className="text-xl font-semibold mb-2">AI Analysis</h3>
+              <h3 className="text-xl font-semibold mb-2 text-gray-700">AI Analysis</h3>
               <p className="text-gray-600">
                 Our AI analyzes your code across multiple dimensions
               </p>
@@ -115,7 +115,7 @@ export default function Home() {
               <div className="w-16 h-16 bg-blue-600 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4">
                 3
               </div>
-              <h3 className="text-xl font-semibold mb-2">Get Actionable Feedback</h3>
+              <h3 className="text-xl font-semibold mb-2 text-gray-700">Get Actionable Feedback</h3>
               <p className="text-gray-600">
                 Receive detailed feedback with specific code improvements
               </p>
