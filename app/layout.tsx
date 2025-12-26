@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'CodeSage - AI Code Review Assistant',
+  title: 'Coditor - AI Code Review Assistant',
   description: 'AI-powered code review for React, Angular, Vue, and Svelte',
 }
 
